@@ -1,2 +1,9 @@
 # Drum-set
-Javascript sound player
+
+## JavaScript sound player
+
+
+Technologies used:
+- JavaScript
+- HTML5
+- CSS3
